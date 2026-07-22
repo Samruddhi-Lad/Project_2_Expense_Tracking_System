@@ -132,7 +132,7 @@ Expense fields:
 ## Development Tools
 
 - Git & GitHub
-- VS Code
+- Pycharm
 - Postman
 
 ---
