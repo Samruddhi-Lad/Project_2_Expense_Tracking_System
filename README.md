@@ -140,7 +140,7 @@ Expense fields:
 
 ## Expense Dashboard
 
-![Expense Dashboard](C:\Users\samru\OneDrive\Pictures\Screenshots\Screenshot Expense_Management_Sysytem.png)
+![Expense Dashboard](screenshots/"C:\Users\samru\OneDrive\Pictures\Screenshots\Screenshot Expense_Management_Sysytem.png")
 
 
 ## Category Analysis
