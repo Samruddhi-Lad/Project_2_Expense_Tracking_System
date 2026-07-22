@@ -1,0 +1,6 @@
+2026-07-21 11:17:38,421 - db_helper - INFO - fetch_expense_for_date called with:2024-08-01
+2026-07-21 11:17:38,590 - db_helper - INFO - insert_expense called with:2024-08-25,amount:40,category:Food,notes:Eat tasty samosa chat
+2026-07-21 11:17:38,613 - db_helper - INFO - fetch_expense_summary called with:2024-08-01,end_date:2024-08-05
+2026-07-21 11:19:17,931 - db_helper - INFO - fetch_expense_for_date called with:2024-09-30
+2026-07-21 11:19:18,084 - db_helper - INFO - insert_expense called with:2024-08-25,amount:40,category:Food,notes:Eat tasty samosa chat
+2026-07-21 11:19:18,099 - db_helper - INFO - fetch_expense_summary called with:2024-08-01,end_date:2024-08-05
