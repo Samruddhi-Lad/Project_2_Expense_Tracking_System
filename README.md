@@ -136,3 +136,18 @@ Expense fields:
 - Postman
 
 ---
+# 📸 Screenshots
+
+## Expense Dashboard
+
+![Expense Dashboard](C:\Users\samru\OneDrive\Pictures\Screenshots)
+
+
+## Category Analysis
+
+![Category Analysis](screenshots/category_analysis.png)
+
+
+## Monthly Analysis
+
+![Monthly Analysis](screenshots/monthly_analysis.png)
