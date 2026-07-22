@@ -144,7 +144,7 @@ Expense fields:
 
 ### Analytics by Category
 
-![Analytics by Category](screenshots/Screenshot%20Analytics_by_category.png)
+![Analytics by Category](Screenshot Analytics_by_category.png)
 
 ### Analytics by Months
 
