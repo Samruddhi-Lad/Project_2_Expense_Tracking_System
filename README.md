@@ -140,7 +140,7 @@ Expense fields:
 
 ### Expense Dashboard
 
-![Expense Dashboard](screenshots/expense_dashboard.png)
+![Expense Dashboard](expense_dashboard.png)
 
 ### Analytics by Category
 
